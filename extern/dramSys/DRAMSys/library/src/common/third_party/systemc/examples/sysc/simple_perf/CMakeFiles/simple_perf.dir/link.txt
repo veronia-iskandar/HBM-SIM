@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -rdynamic CMakeFiles/simple_perf.dir/simple_perf.cpp.o -o simple_perf  ../../../src/libsystemc.a -pthread 

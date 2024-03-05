@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -rdynamic CMakeFiles/sc_export.dir/main.cpp.o -o sc_export  ../../../../src/libsystemc.a -pthread 
